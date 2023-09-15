@@ -4,7 +4,7 @@
 
 struct tots {
     struct hsearch_data htab;
-}
+};
 
 tots *tots_make(size_t n)
 {
